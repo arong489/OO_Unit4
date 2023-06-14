@@ -126,6 +126,9 @@ public class Library {
         return diplomacyAdmin.order(order.getStudent(), order.getBook());
     }
 
+    public void orderNewBook() {
+    }
+
     //============================== facility interface ================================
 
     public BookShelf getBookShelf() {

@@ -83,6 +83,9 @@ public class DiplomacyAdmin implements Server {
             System.out.println(String.format("(State)[%s] %s transfers from Available to Borrowed",
                     LibrarySystem.getClock(), book));
             System.out.println(
+                    String.format("(Sequence) [%s] <Library> sends a message to <LibrarySystem>",
+                            LibrarySystem.getClock()));
+            System.out.println(
                     String.format("[%s] %s borrowed %s-%s from purchasing department",
                             LibrarySystem.getClock(), student, book.getOriginLibrary(), book));
         });

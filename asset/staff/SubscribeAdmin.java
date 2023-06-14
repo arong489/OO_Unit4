@@ -48,6 +48,9 @@ public class SubscribeAdmin implements Server {
                     System.out.println(String.format(
                             "(State)[%s] %s transfers from Available to Borrowed",
                             LibrarySystem.getClock(), realBook));
+                    System.out.println(String.format(
+                            "(Sequence) [%s] <Library> sends a message to <LibrarySystem>",
+                            LibrarySystem.getClock()));
                     System.out.println(
                             String.format("[%s] %s borrowed %s-%s from ordering librarian",
                                     LibrarySystem.getClock(),
@@ -80,6 +83,9 @@ public class SubscribeAdmin implements Server {
         System.out.println(String.format(
                 "[%s] ordering librarian recorded %s's order of %s-%s",
                 LibrarySystem.getClock(), student, library, book));
+        System.out.println(
+                String.format("(Sequence) [%s] <LibrarySystem> sends a message to <Library>",
+                        LibrarySystem.getClock()));
         if (library.getBookShelf().checkNewBook(book)) {
             book.setOriginLibrary(library);
             dataBase.addWishBook(book);

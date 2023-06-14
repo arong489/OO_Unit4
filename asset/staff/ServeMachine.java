@@ -23,14 +23,20 @@ public class ServeMachine implements Server {
     }
 
     public boolean hasBook(StudentInf student, Book book) {
-        BookShelf bookShelf = library.getBookShelf();
         System.out.println(
                 String.format(
                         "[%s] %s queried %s from self-service machine",
                         LibrarySystem.getClock(), student, book));
         System.out.println(
+                String.format("(Sequence) [%s] <LibrarySystem> sends a message to <Library>",
+                        LibrarySystem.getClock()));
+        System.out.println(
                 String.format("[%s] self-service machine provided information of %s",
                         LibrarySystem.getClock(), book));
+        System.out.println(
+                String.format("(Sequence) [%s] <Library> sends a message to <LibrarySystem>",
+                        LibrarySystem.getClock()));
+        BookShelf bookShelf = library.getBookShelf();
         return bookShelf.hasBook(book);
     }
 
@@ -44,6 +50,9 @@ public class ServeMachine implements Server {
                     LibrarySystem.getClock(), library, book, student));
             System.out.println(String.format("(State)[%s] %s transfers from Available to Available",
                     LibrarySystem.getClock(), book));
+            System.out.println(
+                    String.format("(Sequence) [%s] <Library> sends a message to <LibrarySystem>",
+                            LibrarySystem.getClock()));
             return false;
         }
         dataBase.addBorrowRecord(student, book);
@@ -53,6 +62,9 @@ public class ServeMachine implements Server {
                 LibrarySystem.getClock(), library, book, student));
         System.out.println(String.format("(State)[%s] %s transfers from Available to Borrowed",
                 LibrarySystem.getClock(), book));
+        System.out.println(
+                String.format("(Sequence) [%s] <Library> sends a message to <LibrarySystem>",
+                        LibrarySystem.getClock()));
         System.out.println(
                 String.format("[%s] %s borrowed %s-%s from self-service machine",
                         LibrarySystem.getClock(), student, library, book));

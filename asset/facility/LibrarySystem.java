@@ -179,4 +179,7 @@ public class LibrarySystem {
     public static long timespan(String time) {
         return LocalDate.parse(time).until(LocalDate.parse(clock), ChronoUnit.DAYS);
     }
+
+    public void getOrderedBook() {
+    }
 }

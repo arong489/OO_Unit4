@@ -31,6 +31,9 @@ public class DebitAdmin implements Server {
                     LibrarySystem.getClock(), library, book, student));
             System.out.println(String.format("(State)[%s] %s transfers from Available to Available",
                     LibrarySystem.getClock(), book));
+            System.out.println(
+                    String.format("(Sequence) [%s] <Library> sends a message to <LibrarySystem>",
+                            LibrarySystem.getClock()));
             return false;
         }
         dataBase.addBorrowRecord(student, book);

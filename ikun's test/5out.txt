@@ -1,0 +1,85 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-07] arranging librarian arranged all the books
+[2023-01-10] arranging librarian arranged all the books
+[2023-01-12] OO-00010001 queried B-0001 from self-service machine
+[2023-01-12] self-service machine provided information of B-0001
+[2023-01-12] OS-B-0001 got transported by purchasing department in OS
+[2023-01-13] OS-B-0001 got received by purchasing department in OO
+[2023-01-13] purchasing department lent OS-B-0001 to OO-00010001
+[2023-01-13] OO-00010001 borrowed OS-B-0001 from purchasing department
+[2023-01-13] arranging librarian arranged all the books
+[2023-01-15] OO-00010001 returned OS-B-0001 to borrowing and returning librarian
+[2023-01-15] borrowing and returning librarian collected OS-B-0001 from OO-00010001
+[2023-01-15] OO-00010001 queried B-0001 from self-service machine
+[2023-01-15] self-service machine provided information of B-0001
+[2023-01-15] OS-B-0001 got transported by purchasing department in OO
+[2023-01-15] OS-B-0001 got transported by purchasing department in OS
+[2023-01-16] OS-B-0001 got received by purchasing department in OS
+[2023-01-16] OS-B-0001 got received by purchasing department in OO
+[2023-01-16] purchasing department lent OS-B-0001 to OO-00010001
+[2023-01-16] OO-00010001 borrowed OS-B-0001 from purchasing department
+[2023-01-16] arranging librarian arranged all the books
+[2023-01-19] arranging librarian arranged all the books
+[2023-01-20] OO-00010001 returned OS-B-0001 to borrowing and returning librarian
+[2023-01-20] borrowing and returning librarian collected OS-B-0001 from OO-00010001
+[2023-01-20] OS-B-0001 got transported by purchasing department in OO
+[2023-01-21] OS-B-0001 got received by purchasing department in OS
+[2023-01-21] OS-01231231 queried B-0001 from self-service machine
+[2023-01-21] self-service machine provided information of B-0001
+[2023-01-21] borrowing and returning librarian lent OS-B-0001 to OS-01231231
+[2023-01-21] OS-01231231 borrowed OS-B-0001 from borrowing and returning librarian
+[2023-01-21] OS-01123121 queried B-0001 from self-service machine
+[2023-01-21] self-service machine provided information of B-0001
+[2023-01-21] OS-12312432 queried B-0001 from self-service machine
+[2023-01-21] self-service machine provided information of B-0001
+[2023-01-21] OS-01123121 ordered OS-B-0001 from ordering librarian
+[2023-01-21] ordering librarian recorded OS-01123121's order of OS-B-0001
+[2023-01-21] OS-12312432 ordered OS-B-0001 from ordering librarian
+[2023-01-21] ordering librarian recorded OS-12312432's order of OS-B-0001
+[2023-01-22] arranging librarian arranged all the books
+[2023-01-22] ordering librarian lent OS-B-0001 to OS-01123121
+[2023-01-22] OS-01123121 borrowed OS-B-0001 from ordering librarian
+[2023-01-25] arranging librarian arranged all the books
+[2023-01-28] arranging librarian arranged all the books
+[2023-01-28] OO-00020002 queried B-0002 from self-service machine
+[2023-01-28] self-service machine provided information of B-0002
+[2023-01-28] OS-B-0002 got transported by purchasing department in OS
+[2023-01-29] OS-B-0002 got received by purchasing department in OO
+[2023-01-29] purchasing department lent OS-B-0002 to OO-00020002
+[2023-01-29] OO-00020002 borrowed OS-B-0002 from purchasing department
+[2023-01-31] arranging librarian arranged all the books
+[2023-02-03] arranging librarian arranged all the books
+[2023-02-06] arranging librarian arranged all the books
+[2023-02-09] arranging librarian arranged all the books
+[2023-02-12] arranging librarian arranged all the books
+[2023-02-15] arranging librarian arranged all the books
+[2023-02-18] arranging librarian arranged all the books
+[2023-02-21] arranging librarian arranged all the books
+[2023-02-24] arranging librarian arranged all the books
+[2023-02-24] OO-00020002 queried B-0008 from self-service machine
+[2023-02-24] self-service machine provided information of B-0008
+[2023-02-24] borrowing and returning librarian refused lending OO-B-0008 to OO-00020002
+[2023-02-27] arranging librarian arranged all the books
+[2023-03-02] arranging librarian arranged all the books
+[2023-03-03] OO-00020002 got punished by borrowing and returning librarian
+[2023-03-03] borrowing and returning librarian received OO-00020002's fine
+[2023-03-03] OO-00020002 returned OS-B-0002 to borrowing and returning librarian
+[2023-03-03] borrowing and returning librarian collected OS-B-0002 from OO-00020002
+[2023-03-03] OS-B-0002 got repaired by logistics division in OO
+[2023-03-03] OS-B-0002 got transported by purchasing department in OO
+[2023-03-04] OS-B-0002 got received by purchasing department in OS
+[2023-03-05] arranging librarian arranged all the books
+[2023-03-08] arranging librarian arranged all the books
+[2023-03-09] OO-00030003 queried B-0002 from self-service machine
+[2023-03-09] self-service machine provided information of B-0002
+[2023-03-09] OS-B-0002 got transported by purchasing department in OS
+[2023-03-10] OS-B-0002 got received by purchasing department in OO
+[2023-03-10] purchasing department lent OS-B-0002 to OO-00030003
+[2023-03-10] OO-00030003 borrowed OS-B-0002 from purchasing department
+[2023-03-11] arranging librarian arranged all the books
+[2023-03-14] arranging librarian arranged all the books
+[2023-03-15] OS-12312312 queried B-0008 from self-service machine
+[2023-03-15] self-service machine provided information of B-0008
+[2023-03-15] OS-12312312 ordered OS-B-0008 from ordering librarian
+[2023-03-15] ordering librarian recorded OS-12312312's order of OS-B-0008

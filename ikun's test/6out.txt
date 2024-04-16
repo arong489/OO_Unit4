@@ -1,0 +1,59 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-01] ABC-12341234 queried C-1000 from self-service machine
+[2023-01-01] self-service machine provided information of C-1000
+[2023-01-01] DEF-00010001 queried C-1000 from self-service machine
+[2023-01-01] self-service machine provided information of C-1000
+[2023-01-01] self-service machine lent DEF-C-1000 to DEF-00010001
+[2023-01-01] DEF-00010001 borrowed DEF-C-1000 from self-service machine
+[2023-01-01] ABC-90909090 queried C-1000 from self-service machine
+[2023-01-01] self-service machine provided information of C-1000
+[2023-01-01] DEF-00020002 queried C-1000 from self-service machine
+[2023-01-01] self-service machine provided information of C-1000
+[2023-01-01] self-service machine lent DEF-C-1000 to DEF-00020002
+[2023-01-01] DEF-00020002 borrowed DEF-C-1000 from self-service machine
+[2023-01-01] ABC-12341234 ordered ABC-C-1000 from ordering librarian
+[2023-01-01] ordering librarian recorded ABC-12341234's order of ABC-C-1000
+[2023-01-01] ABC-90909090 ordered ABC-C-1000 from ordering librarian
+[2023-01-01] ordering librarian recorded ABC-90909090's order of ABC-C-1000
+[2023-01-02] ABC-12341234 queried C-2000 from self-service machine
+[2023-01-02] self-service machine provided information of C-2000
+[2023-01-02] ABC-12341234 queried B-0001 from self-service machine
+[2023-01-02] self-service machine provided information of B-0001
+[2023-01-02] borrowing and returning librarian lent ABC-B-0001 to ABC-12341234
+[2023-01-02] ABC-12341234 borrowed ABC-B-0001 from borrowing and returning librarian
+[2023-01-02] DEF-C-2000 got transported by purchasing department in DEF
+[2023-01-03] DEF-C-2000 got received by purchasing department in ABC
+[2023-01-03] purchasing department lent DEF-C-2000 to ABC-12341234
+[2023-01-03] ABC-12341234 borrowed DEF-C-2000 from purchasing department
+[2023-01-04] ABC-C-1000 got purchased by purchasing department in ABC
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-04] ordering librarian lent ABC-C-1000 to ABC-12341234
+[2023-01-04] ABC-12341234 borrowed ABC-C-1000 from ordering librarian
+[2023-01-04] ordering librarian lent ABC-C-1000 to ABC-90909090
+[2023-01-04] ABC-90909090 borrowed ABC-C-1000 from ordering librarian
+[2023-01-04] DEF-12343555 queried B-0000 from self-service machine
+[2023-01-04] self-service machine provided information of B-0000
+[2023-01-04] ABC-B-0000 got transported by purchasing department in ABC
+[2023-01-05] ABC-B-0000 got received by purchasing department in DEF
+[2023-01-05] purchasing department lent ABC-B-0000 to DEF-12343555
+[2023-01-05] DEF-12343555 borrowed ABC-B-0000 from purchasing department
+[2023-01-07] arranging librarian arranged all the books
+[2023-01-10] arranging librarian arranged all the books
+[2023-01-13] arranging librarian arranged all the books
+[2023-01-16] arranging librarian arranged all the books
+[2023-01-19] arranging librarian arranged all the books
+[2023-01-22] arranging librarian arranged all the books
+[2023-01-23] ABC-12341234 got punished by borrowing and returning librarian
+[2023-01-23] borrowing and returning librarian received ABC-12341234's fine
+[2023-01-23] ABC-12341234 returned ABC-C-1000 to self-service machine
+[2023-01-23] self-service machine collected ABC-C-1000 from ABC-12341234
+[2023-01-23] ABC-C-1000 got repaired by logistics division in ABC
+[2023-01-23] DEF-00010001 returned DEF-C-1000 to self-service machine
+[2023-01-23] self-service machine collected DEF-C-1000 from DEF-00010001
+[2023-01-25] arranging librarian arranged all the books
+[2023-01-28] arranging librarian arranged all the books
+[2023-01-31] arranging librarian arranged all the books
+[2023-02-02] ABC-12332423 queried C-1000 from self-service machine
+[2023-02-02] self-service machine provided information of C-1000
+[2023-02-02] self-service machine lent ABC-C-1000 to ABC-12332423
+[2023-02-02] ABC-12332423 borrowed ABC-C-1000 from self-service machine

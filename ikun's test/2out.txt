@@ -1,0 +1,108 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-07] arranging librarian arranged all the books
+[2023-01-10] arranging librarian arranged all the books
+[2023-01-13] arranging librarian arranged all the books
+[2023-01-16] arranging librarian arranged all the books
+[2023-01-19] arranging librarian arranged all the books
+[2023-01-22] arranging librarian arranged all the books
+[2023-01-25] arranging librarian arranged all the books
+[2023-01-28] arranging librarian arranged all the books
+[2023-01-31] arranging librarian arranged all the books
+[2023-02-02] BUAA-21371068 queried B-0003 from self-service machine
+[2023-02-02] self-service machine provided information of B-0003
+[2023-02-02] BUAA-21371068 queried B-0003 from self-service machine
+[2023-02-02] self-service machine provided information of B-0003
+[2023-02-02] BUAA-21371068 queried C-1010 from self-service machine
+[2023-02-02] self-service machine provided information of C-1010
+[2023-02-02] BUAA-21371068 queried C-1010 from self-service machine
+[2023-02-02] self-service machine provided information of C-1010
+[2023-02-02] BUAA-21371068 queried B-0004 from self-service machine
+[2023-02-02] self-service machine provided information of B-0004
+[2023-02-02] BUAA-21371068 queried C-0001 from self-service machine
+[2023-02-02] self-service machine provided information of C-0001
+[2023-02-02] BUAA-21371068 ordered BUAA-B-0003 from ordering librarian
+[2023-02-02] ordering librarian recorded BUAA-21371068's order of BUAA-B-0003
+[2023-02-02] OO-B-0003 got transported by purchasing department in OO
+[2023-02-02] OO-C-1010 got transported by purchasing department in OO
+[2023-02-02] OO-C-0001 got transported by purchasing department in OO
+[2023-02-03] OO-B-0003 got received by purchasing department in BUAA
+[2023-02-03] OO-C-1010 got received by purchasing department in BUAA
+[2023-02-03] OO-C-0001 got received by purchasing department in BUAA
+[2023-02-03] purchasing department lent OO-B-0003 to BUAA-21371068
+[2023-02-03] BUAA-21371068 borrowed OO-B-0003 from purchasing department
+[2023-02-03] purchasing department lent OO-C-1010 to BUAA-21371068
+[2023-02-03] BUAA-21371068 borrowed OO-C-1010 from purchasing department
+[2023-02-03] purchasing department lent OO-C-0001 to BUAA-21371068
+[2023-02-03] BUAA-21371068 borrowed OO-C-0001 from purchasing department
+[2023-02-03] arranging librarian arranged all the books
+[2023-02-06] arranging librarian arranged all the books
+[2023-02-09] arranging librarian arranged all the books
+[2023-02-12] arranging librarian arranged all the books
+[2023-02-15] arranging librarian arranged all the books
+[2023-02-15] BUAA-21371068 returned OO-B-0003 to borrowing and returning librarian
+[2023-02-15] borrowing and returning librarian collected OO-B-0003 from BUAA-21371068
+[2023-02-15] BUAA-21371068 returned OO-C-1010 to self-service machine
+[2023-02-15] self-service machine collected OO-C-1010 from BUAA-21371068
+[2023-02-15] BUAA-21371068 returned OO-C-0001 to self-service machine
+[2023-02-15] self-service machine collected OO-C-0001 from BUAA-21371068
+[2023-02-15] OO-B-0003 got transported by purchasing department in BUAA
+[2023-02-15] OO-C-1010 got transported by purchasing department in BUAA
+[2023-02-15] OO-C-0001 got transported by purchasing department in BUAA
+[2023-02-16] OO-B-0003 got received by purchasing department in OO
+[2023-02-16] OO-C-1010 got received by purchasing department in OO
+[2023-02-16] OO-C-0001 got received by purchasing department in OO
+[2023-02-18] arranging librarian arranged all the books
+[2023-02-21] arranging librarian arranged all the books
+[2023-02-24] arranging librarian arranged all the books
+[2023-02-27] arranging librarian arranged all the books
+[2023-03-02] arranging librarian arranged all the books
+[2023-03-03] OO-10001000 queried C-0001 from self-service machine
+[2023-03-03] self-service machine provided information of C-0001
+[2023-03-03] self-service machine lent OO-C-0001 to OO-10001000
+[2023-03-03] OO-10001000 borrowed OO-C-0001 from self-service machine
+[2023-03-03] OO-20002000 queried C-0001 from self-service machine
+[2023-03-03] self-service machine provided information of C-0001
+[2023-03-03] self-service machine lent OO-C-0001 to OO-20002000
+[2023-03-03] OO-20002000 borrowed OO-C-0001 from self-service machine
+[2023-03-05] arranging librarian arranged all the books
+[2023-03-08] arranging librarian arranged all the books
+[2023-03-11] arranging librarian arranged all the books
+[2023-03-14] arranging librarian arranged all the books
+[2023-03-17] arranging librarian arranged all the books
+[2023-03-20] arranging librarian arranged all the books
+[2023-03-23] arranging librarian arranged all the books
+[2023-03-26] arranging librarian arranged all the books
+[2023-03-29] arranging librarian arranged all the books
+[2023-04-01] arranging librarian arranged all the books
+[2023-04-04] arranging librarian arranged all the books
+[2023-04-04] OO-11405140 queried B-1001 from self-service machine
+[2023-04-04] self-service machine provided information of B-1001
+[2023-04-04] BUAA-11111111 queried B-0003 from self-service machine
+[2023-04-04] self-service machine provided information of B-0003
+[2023-04-04] OO-11405141 queried B-1001 from self-service machine
+[2023-04-04] self-service machine provided information of B-1001
+[2023-04-04] BUAA-22222222 queried B-0004 from self-service machine
+[2023-04-04] self-service machine provided information of B-0004
+[2023-04-04] BUAA-B-1001 got transported by purchasing department in BUAA
+[2023-04-04] BUAA-B-1001 got transported by purchasing department in BUAA
+[2023-04-04] OO-B-0003 got transported by purchasing department in OO
+[2023-04-04] OO-B-0004 got transported by purchasing department in OO
+[2023-04-05] BUAA-B-1001 got received by purchasing department in OO
+[2023-04-05] BUAA-B-1001 got received by purchasing department in OO
+[2023-04-05] OO-B-0003 got received by purchasing department in BUAA
+[2023-04-05] OO-B-0004 got received by purchasing department in BUAA
+[2023-04-05] purchasing department lent BUAA-B-1001 to OO-11405140
+[2023-04-05] OO-11405140 borrowed BUAA-B-1001 from purchasing department
+[2023-04-05] purchasing department lent BUAA-B-1001 to OO-11405141
+[2023-04-05] OO-11405141 borrowed BUAA-B-1001 from purchasing department
+[2023-04-05] purchasing department lent OO-B-0003 to BUAA-11111111
+[2023-04-05] BUAA-11111111 borrowed OO-B-0003 from purchasing department
+[2023-04-05] purchasing department lent OO-B-0004 to BUAA-22222222
+[2023-04-05] BUAA-22222222 borrowed OO-B-0004 from purchasing department
+[2023-04-07] arranging librarian arranged all the books
+[2023-04-10] arranging librarian arranged all the books
+[2023-04-13] arranging librarian arranged all the books
+[2023-04-15] OO-11405140 returned BUAA-B-1001 to borrowing and returning librarian
+[2023-04-15] borrowing and returning librarian collected BUAA-B-1001 from OO-11405140
+[2023-04-15] BUAA-B-1001 got transported by purchasing department in OO

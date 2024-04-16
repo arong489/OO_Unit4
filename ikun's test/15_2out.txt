@@ -1,0 +1,48 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-01] BCDEF-21000000 queried B-0001 from self-service machine
+[2023-01-01] self-service machine provided information of B-0001
+[2023-01-01] ABCDE-B-0001 got transported by purchasing department in ABCDE
+[2023-01-02] ABCDE-B-0001 got received by purchasing department in BCDEF
+[2023-01-02] purchasing department lent ABCDE-B-0001 to BCDEF-21000000
+[2023-01-02] BCDEF-21000000 borrowed ABCDE-B-0001 from purchasing department
+[2023-01-02] BCDEF-21000000 queried C-0001 from self-service machine
+[2023-01-02] self-service machine provided information of C-0001
+[2023-01-02] ABCDE-C-0001 got transported by purchasing department in ABCDE
+[2023-01-03] ABCDE-C-0001 got received by purchasing department in BCDEF
+[2023-01-03] purchasing department lent ABCDE-C-0001 to BCDEF-21000000
+[2023-01-03] BCDEF-21000000 borrowed ABCDE-C-0001 from purchasing department
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-07] arranging librarian arranged all the books
+[2023-01-10] arranging librarian arranged all the books
+[2023-01-13] arranging librarian arranged all the books
+[2023-01-16] arranging librarian arranged all the books
+[2023-01-19] arranging librarian arranged all the books
+[2023-01-22] arranging librarian arranged all the books
+[2023-01-25] arranging librarian arranged all the books
+[2023-01-28] arranging librarian arranged all the books
+[2023-01-31] arranging librarian arranged all the books
+[2023-02-03] arranging librarian arranged all the books
+[2023-02-06] arranging librarian arranged all the books
+[2023-02-09] arranging librarian arranged all the books
+[2023-02-10] BCDEF-21000000 got punished by borrowing and returning librarian
+[2023-02-10] borrowing and returning librarian received BCDEF-21000000's fine
+[2023-02-10] BCDEF-21000000 returned ABCDE-B-0001 to borrowing and returning librarian
+[2023-02-10] borrowing and returning librarian collected ABCDE-B-0001 from BCDEF-21000000
+[2023-02-10] ABCDE-B-0001 got transported by purchasing department in BCDEF
+[2023-02-11] ABCDE-B-0001 got received by purchasing department in ABCDE
+[2023-02-12] arranging librarian arranged all the books
+[2023-02-15] arranging librarian arranged all the books
+[2023-02-18] arranging librarian arranged all the books
+[2023-02-21] arranging librarian arranged all the books
+[2023-02-24] arranging librarian arranged all the books
+[2023-02-27] arranging librarian arranged all the books
+[2023-03-02] arranging librarian arranged all the books
+[2023-03-05] arranging librarian arranged all the books
+[2023-03-08] arranging librarian arranged all the books
+[2023-03-11] arranging librarian arranged all the books
+[2023-03-14] arranging librarian arranged all the books
+[2023-03-15] BCDEF-21000000 got punished by borrowing and returning librarian
+[2023-03-15] borrowing and returning librarian received BCDEF-21000000's fine
+[2023-03-15] BCDEF-21000000 returned ABCDE-C-0001 to self-service machine
+[2023-03-15] self-service machine collected ABCDE-C-0001 from BCDEF-21000000
+[2023-03-15] ABCDE-C-0001 got transported by purchasing department in BCDEF

@@ -1,0 +1,87 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-01] OO-12312323 queried B-1223 from self-service machine
+[2023-01-01] self-service machine provided information of B-1223
+[2023-01-01] OO-12312334 queried B-1234 from self-service machine
+[2023-01-01] self-service machine provided information of B-1234
+[2023-01-01] OO-12312334 queried C-1000 from self-service machine
+[2023-01-01] self-service machine provided information of C-1000
+[2023-01-01] OO-12312345 queried C-1001 from self-service machine
+[2023-01-01] self-service machine provided information of C-1001
+[2023-01-01] OO-22222222 queried C-1001 from self-service machine
+[2023-01-01] self-service machine provided information of C-1001
+[2023-01-01] OO-12312334 queried C-1001 from self-service machine
+[2023-01-01] self-service machine provided information of C-1001
+[2023-01-01] OS-00000000 queried C-1001 from self-service machine
+[2023-01-01] self-service machine provided information of C-1001
+[2023-01-01] OS-00000000 ordered OS-C-1001 from ordering librarian
+[2023-01-01] ordering librarian recorded OS-00000000's order of OS-C-1001
+[2023-01-01] OO-12312323 ordered OO-B-1223 from ordering librarian
+[2023-01-01] ordering librarian recorded OO-12312323's order of OO-B-1223
+[2023-01-01] OO-12312334 ordered OO-B-1234 from ordering librarian
+[2023-01-01] ordering librarian recorded OO-12312334's order of OO-B-1234
+[2023-01-01] OO-12312334 ordered OO-C-1000 from ordering librarian
+[2023-01-01] ordering librarian recorded OO-12312334's order of OO-C-1000
+[2023-01-01] OO-12312345 ordered OO-C-1001 from ordering librarian
+[2023-01-01] ordering librarian recorded OO-12312345's order of OO-C-1001
+[2023-01-01] OO-22222222 ordered OO-C-1001 from ordering librarian
+[2023-01-01] ordering librarian recorded OO-22222222's order of OO-C-1001
+[2023-01-01] OO-12312334 ordered OO-C-1001 from ordering librarian
+[2023-01-01] ordering librarian recorded OO-12312334's order of OO-C-1001
+[2023-01-02] OS-01010101 queried C-1001 from self-service machine
+[2023-01-02] self-service machine provided information of C-1001
+[2023-01-02] OS-01010101 ordered OS-C-1001 from ordering librarian
+[2023-01-02] ordering librarian recorded OS-01010101's order of OS-C-1001
+[2023-01-04] OS-C-1001 got purchased by purchasing department in OS
+[2023-01-04] OO-B-1223 got purchased by purchasing department in OO
+[2023-01-04] OO-B-1234 got purchased by purchasing department in OO
+[2023-01-04] OO-C-1000 got purchased by purchasing department in OO
+[2023-01-04] OO-C-1001 got purchased by purchasing department in OO
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-04] ordering librarian lent OS-C-1001 to OS-00000000
+[2023-01-04] OS-00000000 borrowed OS-C-1001 from ordering librarian
+[2023-01-04] ordering librarian lent OS-C-1001 to OS-01010101
+[2023-01-04] OS-01010101 borrowed OS-C-1001 from ordering librarian
+[2023-01-04] ordering librarian lent OO-B-1223 to OO-12312323
+[2023-01-04] OO-12312323 borrowed OO-B-1223 from ordering librarian
+[2023-01-04] ordering librarian lent OO-B-1234 to OO-12312334
+[2023-01-04] OO-12312334 borrowed OO-B-1234 from ordering librarian
+[2023-01-04] ordering librarian lent OO-C-1000 to OO-12312334
+[2023-01-04] OO-12312334 borrowed OO-C-1000 from ordering librarian
+[2023-01-04] ordering librarian lent OO-C-1001 to OO-12312345
+[2023-01-04] OO-12312345 borrowed OO-C-1001 from ordering librarian
+[2023-01-04] ordering librarian lent OO-C-1001 to OO-22222222
+[2023-01-04] OO-22222222 borrowed OO-C-1001 from ordering librarian
+[2023-01-04] ordering librarian lent OO-C-1001 to OO-12312334
+[2023-01-04] OO-12312334 borrowed OO-C-1001 from ordering librarian
+[2023-01-07] arranging librarian arranged all the books
+[2023-01-10] arranging librarian arranged all the books
+[2023-01-13] arranging librarian arranged all the books
+[2023-01-16] arranging librarian arranged all the books
+[2023-01-19] arranging librarian arranged all the books
+[2023-01-22] arranging librarian arranged all the books
+[2023-01-25] arranging librarian arranged all the books
+[2023-01-28] arranging librarian arranged all the books
+[2023-01-31] arranging librarian arranged all the books
+[2023-02-02] OS-12341223 queried C-1001 from self-service machine
+[2023-02-02] self-service machine provided information of C-1001
+[2023-02-02] self-service machine lent OS-C-1001 to OS-12341223
+[2023-02-02] OS-12341223 borrowed OS-C-1001 from self-service machine
+[2023-02-02] OS-99991223 queried C-1001 from self-service machine
+[2023-02-02] self-service machine provided information of C-1001
+[2023-02-02] OS-88881223 queried C-1001 from self-service machine
+[2023-02-02] self-service machine provided information of C-1001
+[2023-02-02] OO-77771223 queried C-1001 from self-service machine
+[2023-02-02] self-service machine provided information of C-1001
+[2023-02-02] OS-99991223 ordered OS-C-1001 from ordering librarian
+[2023-02-02] ordering librarian recorded OS-99991223's order of OS-C-1001
+[2023-02-02] OS-88881223 ordered OS-C-1001 from ordering librarian
+[2023-02-02] ordering librarian recorded OS-88881223's order of OS-C-1001
+[2023-02-02] OO-77771223 ordered OO-C-1001 from ordering librarian
+[2023-02-02] ordering librarian recorded OO-77771223's order of OO-C-1001
+[2023-02-03] arranging librarian arranged all the books
+[2023-02-06] arranging librarian arranged all the books
+[2023-02-09] arranging librarian arranged all the books
+[2023-02-09] OO-12319999 queried B-1223 from self-service machine
+[2023-02-09] self-service machine provided information of B-1223
+[2023-02-09] borrowing and returning librarian lent OO-B-1223 to OO-12319999
+[2023-02-09] OO-12319999 borrowed OO-B-1223 from borrowing and returning librarian

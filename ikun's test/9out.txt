@@ -1,0 +1,31 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-01] A-21000000 queried C-0001 from self-service machine
+[2023-01-01] self-service machine provided information of C-0001
+[2023-01-01] self-service machine lent A-C-0001 to A-21000000
+[2023-01-01] A-21000000 borrowed A-C-0001 from self-service machine
+[2023-01-03] A-21000000 returned A-C-0001 to self-service machine
+[2023-01-03] self-service machine collected A-C-0001 from A-21000000
+[2023-01-03] A-21111111 queried C-0001 from self-service machine
+[2023-01-03] self-service machine provided information of C-0001
+[2023-01-03] A-21111111 queried C-0002 from self-service machine
+[2023-01-03] self-service machine provided information of C-0002
+[2023-01-03] A-21111111 queried B-0000 from self-service machine
+[2023-01-03] self-service machine provided information of B-0000
+[2023-01-03] A-21111111 ordered A-C-0001 from ordering librarian
+[2023-01-03] ordering librarian recorded A-21111111's order of A-C-0001
+[2023-01-03] A-21111111 ordered A-C-0002 from ordering librarian
+[2023-01-03] ordering librarian recorded A-21111111's order of A-C-0002
+[2023-01-03] B-B-0000 got transported by purchasing department in B
+[2023-01-04] B-B-0000 got received by purchasing department in A
+[2023-01-04] purchasing department lent B-B-0000 to A-21111111
+[2023-01-04] A-21111111 borrowed B-B-0000 from purchasing department
+[2023-01-04] A-C-0002 got purchased by purchasing department in A
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-04] ordering librarian lent A-C-0001 to A-21111111
+[2023-01-04] A-21111111 borrowed A-C-0001 from ordering librarian
+[2023-01-04] ordering librarian lent A-C-0002 to A-21111111
+[2023-01-04] A-21111111 borrowed A-C-0002 from ordering librarian
+[2023-01-06] B-21111111 queried B-0000 from self-service machine
+[2023-01-06] self-service machine provided information of B-0000
+[2023-01-06] borrowing and returning librarian lent B-B-0000 to B-21111111
+[2023-01-06] B-21111111 borrowed B-B-0000 from borrowing and returning librarian

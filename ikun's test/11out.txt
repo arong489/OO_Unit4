@@ -1,0 +1,32 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-01] A-21000000 queried B-0001 from self-service machine
+[2023-01-01] self-service machine provided information of B-0001
+[2023-01-01] borrowing and returning librarian lent A-B-0001 to A-21000000
+[2023-01-01] A-21000000 borrowed A-B-0001 from borrowing and returning librarian
+[2023-01-01] A-21111111 queried B-0003 from self-service machine
+[2023-01-01] self-service machine provided information of B-0003
+[2023-01-01] borrowing and returning librarian lent A-B-0003 to A-21111111
+[2023-01-01] A-21111111 borrowed A-B-0003 from borrowing and returning librarian
+[2023-01-03] A-21111111 queried B-0001 from self-service machine
+[2023-01-03] self-service machine provided information of B-0001
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-07] arranging librarian arranged all the books
+[2023-01-08] B-21000000 queried B-0000 from self-service machine
+[2023-01-08] self-service machine provided information of B-0000
+[2023-01-08] borrowing and returning librarian lent B-B-0000 to B-21000000
+[2023-01-08] B-21000000 borrowed B-B-0000 from borrowing and returning librarian
+[2023-01-08] B-21111111 queried B-0000 from self-service machine
+[2023-01-08] self-service machine provided information of B-0000
+[2023-01-08] B-21111111 ordered B-B-0000 from ordering librarian
+[2023-01-08] ordering librarian recorded B-21111111's order of B-B-0000
+[2023-01-09] B-21111111 queried B-0002 from self-service machine
+[2023-01-09] self-service machine provided information of B-0002
+[2023-01-09] borrowing and returning librarian lent B-B-0002 to B-21111111
+[2023-01-09] B-21111111 borrowed B-B-0002 from borrowing and returning librarian
+[2023-01-10] arranging librarian arranged all the books
+[2023-01-11] B-21000000 returned B-B-0000 to borrowing and returning librarian
+[2023-01-11] borrowing and returning librarian collected B-B-0000 from B-21000000
+[2023-01-13] arranging librarian arranged all the books
+[2023-01-16] arranging librarian arranged all the books
+[2023-01-16] A-21000000 returned A-B-0001 to borrowing and returning librarian
+[2023-01-16] borrowing and returning librarian collected A-B-0001 from A-21000000

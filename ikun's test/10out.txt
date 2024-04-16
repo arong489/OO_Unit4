@@ -1,0 +1,18 @@
+[2023-01-01] arranging librarian arranged all the books
+[2023-01-01] A-21000000 queried B-0001 from self-service machine
+[2023-01-01] self-service machine provided information of B-0001
+[2023-01-01] borrowing and returning librarian lent A-B-0001 to A-21000000
+[2023-01-01] A-21000000 borrowed A-B-0001 from borrowing and returning librarian
+[2023-01-02] A-21111111 queried B-0000 from self-service machine
+[2023-01-02] self-service machine provided information of B-0000
+[2023-01-02] A-21000000 queried B-0004 from self-service machine
+[2023-01-02] self-service machine provided information of B-0004
+[2023-01-02] A-21111111 queried B-0002 from self-service machine
+[2023-01-02] self-service machine provided information of B-0002
+[2023-01-02] B-B-0000 got transported by purchasing department in B
+[2023-01-03] B-B-0000 got received by purchasing department in A
+[2023-01-03] purchasing department lent B-B-0000 to A-21111111
+[2023-01-03] A-21111111 borrowed B-B-0000 from purchasing department
+[2023-01-04] arranging librarian arranged all the books
+[2023-01-06] A-21000000 returned A-B-0001 to borrowing and returning librarian
+[2023-01-06] borrowing and returning librarian collected A-B-0001 from A-21000000
